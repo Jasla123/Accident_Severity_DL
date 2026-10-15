@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn==1.7.2
 joblib
-torch
+torch==2.14.1
+torchvision==0.29.1
 transformers
 safetensors
